@@ -1,0 +1,19 @@
+# _____    ____    ___    _   _    ___    __  __  __   __
+#| ____|  / ___|  / _ \  | \ | |  / _ \  |  \/  | \ \ / /
+#|  _|   | |     | | | | |  \| | | | | | | |\/| |  \ V /
+#| |___  | |___  | |_| | | |\  | | |_| | | |  | |   | |
+#|_____|  \____|  \___/  |_| \_|  \___/  |_|  |_|   |_|
+name: EconomySystem
+version: 1.0.0
+main: julien\economy\Main
+api: 4.0.0
+author: Julien
+website: https://github.com/Dumont-Julien
+description: Plugin economy compatible with Config or DataBase
+permissions:
+  economy.addmoney:
+    default: op
+  economy.delmoney:
+    default: op
+  economy.setmoney:
+    default: op

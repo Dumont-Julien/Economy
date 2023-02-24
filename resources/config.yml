@@ -1,0 +1,18 @@
+# _____    ____    ___    _   _    ___    __  __  __   __
+#| ____|  / ___|  / _ \  | \ | |  / _ \  |  \/  | \ \ / /
+#|  _|   | |     | | | | |  \| | | | | | | |\/| |  \ V /
+#| |___  | |___  | |_| | | |\  | | |_| | | |  | |   | |
+#|_____|  \____|  \___/  |_| \_|  \___/  |_|  |_|   |_|
+
+prefix: '[§9Economy§f] §r'
+lang:
+
+# mysql | config
+config: 'config'
+
+database_host: 'YourHost'
+database_username: 'YourUserName'
+database_password: 'YourPassword'
+database_schema: 'YourSchema'
+
+default_money: 1000
